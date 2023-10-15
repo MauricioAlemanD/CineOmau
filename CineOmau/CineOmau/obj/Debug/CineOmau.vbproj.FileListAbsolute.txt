@@ -1,0 +1,13 @@
+C:\Users\omnxm\OneDrive\Documentos\GitHub\CineOmau\CineOmau\CineOmau\bin\Debug\CineOmau.exe.config
+C:\Users\omnxm\OneDrive\Documentos\GitHub\CineOmau\CineOmau\CineOmau\bin\Debug\CineOmau.exe
+C:\Users\omnxm\OneDrive\Documentos\GitHub\CineOmau\CineOmau\CineOmau\bin\Debug\CineOmau.pdb
+C:\Users\omnxm\OneDrive\Documentos\GitHub\CineOmau\CineOmau\CineOmau\bin\Debug\CineOmau.xml
+C:\Users\omnxm\OneDrive\Documentos\GitHub\CineOmau\CineOmau\CineOmau\obj\Debug\CineOmau.vbproj.AssemblyReference.cache
+C:\Users\omnxm\OneDrive\Documentos\GitHub\CineOmau\CineOmau\CineOmau\obj\Debug\CineOmau.Form1.resources
+C:\Users\omnxm\OneDrive\Documentos\GitHub\CineOmau\CineOmau\CineOmau\obj\Debug\CineOmau.Resources.resources
+C:\Users\omnxm\OneDrive\Documentos\GitHub\CineOmau\CineOmau\CineOmau\obj\Debug\CineOmau.vbproj.GenerateResource.cache
+C:\Users\omnxm\OneDrive\Documentos\GitHub\CineOmau\CineOmau\CineOmau\obj\Debug\CineOmau.vbproj.CoreCompileInputs.cache
+C:\Users\omnxm\OneDrive\Documentos\GitHub\CineOmau\CineOmau\CineOmau\obj\Debug\CineOmau.exe
+C:\Users\omnxm\OneDrive\Documentos\GitHub\CineOmau\CineOmau\CineOmau\obj\Debug\CineOmau.xml
+C:\Users\omnxm\OneDrive\Documentos\GitHub\CineOmau\CineOmau\CineOmau\obj\Debug\CineOmau.pdb
+C:\Users\omnxm\OneDrive\Documentos\GitHub\CineOmau\CineOmau\CineOmau\obj\Debug\CineOmau.Registro.resources
