@@ -1,0 +1,14 @@
+C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\bin\Debug\Usuarios.xml
+C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\obj\Debug\Usuarios.vbproj.AssemblyReference.cache
+C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\obj\Debug\Usuarios.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\obj\Debug\Usuarios.Resources.resources
+C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\obj\Debug\Usuarios.vbproj.GenerateResource.cache
+C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\obj\Debug\Usuarios.vbproj.CoreCompileInputs.cache
+C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\obj\Debug\Usuarios.xml
+C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\obj\Debug\Usuarios.Nuevo.resources
