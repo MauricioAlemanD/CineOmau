@@ -1,0 +1,13 @@
+C:\Users\Mau\Documents\GitHub\CineOmau\ISR\ISR\bin\Debug\ISR.exe.config
+C:\Users\Mau\Documents\GitHub\CineOmau\ISR\ISR\bin\Debug\ISR.exe
+C:\Users\Mau\Documents\GitHub\CineOmau\ISR\ISR\bin\Debug\ISR.pdb
+C:\Users\Mau\Documents\GitHub\CineOmau\ISR\ISR\bin\Debug\ISR.xml
+C:\Users\Mau\Documents\GitHub\CineOmau\ISR\ISR\obj\Debug\ISR.vbproj.AssemblyReference.cache
+C:\Users\Mau\Documents\GitHub\CineOmau\ISR\ISR\obj\Debug\ISR.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Mau\Documents\GitHub\CineOmau\ISR\ISR\obj\Debug\ISR.Form1.resources
+C:\Users\Mau\Documents\GitHub\CineOmau\ISR\ISR\obj\Debug\ISR.Resources.resources
+C:\Users\Mau\Documents\GitHub\CineOmau\ISR\ISR\obj\Debug\ISR.vbproj.GenerateResource.cache
+C:\Users\Mau\Documents\GitHub\CineOmau\ISR\ISR\obj\Debug\ISR.vbproj.CoreCompileInputs.cache
+C:\Users\Mau\Documents\GitHub\CineOmau\ISR\ISR\obj\Debug\ISR.exe
+C:\Users\Mau\Documents\GitHub\CineOmau\ISR\ISR\obj\Debug\ISR.xml
+C:\Users\Mau\Documents\GitHub\CineOmau\ISR\ISR\obj\Debug\ISR.pdb

@@ -12,3 +12,4 @@ C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\obj\Debug\Usuarios.exe
 C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\obj\Debug\Usuarios.xml
 C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\obj\Debug\Usuarios.pdb
 C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\obj\Debug\Usuarios.Nuevo.resources
+C:\Users\Mau\Documents\GitHub\CineOmau\Usuarios\Usuarios\obj\Debug\Usuarios.Permisos.resources

@@ -20,17 +20,20 @@ Public Class Nuevo
     End Sub
 
     Private Sub btnCrearUsuario_Click(sender As Object, e As EventArgs) Handles btnCrearUsuario.Click
+
+        usuario = txtUsuario.Text
+        contraseña = txtContraseña.Text
+        basededatos = cmbBasesDeDatos.SelectedItem
+
         Try
-            usuario = txtUsuario.Text
-            contraseña = txtContraseña.Text
-            basededatos = cmbBasesDeDatos.SelectedItem
-            sentenciaSql = "CREATE LOGIN [" + usuario + "] WITH PASSWORD=N'" + contraseña + "' MUST_CHANGE, DEFAULT_DATABASE=[" + basededatos + "], CHECK_EXPIRATION=ON, CHECK_POLICY=ON"
+
+            sentenciaSql = "CREATE LOGIN [" & usuario & "] WITH PASSWORD=N'" & contraseña & "' , DEFAULT_DATABASE=master"
             conectar()
             comandoSql = New SqlCommand(sentenciaSql, conexion)
             respuesta = comandoSql.ExecuteNonQuery
             conexion.Close()
 
-            sentenciaSql = "USE [" + basededatos + "] ; CREATE USER[" + usuario + "] WITH DEFAULT_SCHEMA=[dbo]"
+            sentenciaSql = "USE " & basededatos & " ; CREATE USER [" & usuario & "] FOR LOGIN [" & usuario & "] WITH DEFAULT_SCHEMA=dbo"
             conectar()
             comandoSql = New SqlCommand(sentenciaSql, conexion)
             respuesta = comandoSql.ExecuteNonQuery

@@ -8,7 +8,7 @@ Public Class Form1
     Dim respuesta As Integer
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
-        sentenciaSql = "select name from sysdatabases"
+        sentenciaSql = "select name from sysdatabases order by name"
         conectar()
         comandoSql = New SqlCommand(sentenciaSql, conexion)
         lectrorSql = comandoSql.ExecuteReader
@@ -21,14 +21,17 @@ Public Class Form1
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
 
+        usuario = txtUsuario.Text
+        contraseña = txtContraseña.Text
+        basededatos = cmbBasesDeDatos.SelectedItem
+
         Try
-            usuario = txtUsuario.Text
-            contraseña = txtContraseña.Text
-            basededatos = cmbBasesDeDatos.SelectedItem
 
             conectar_usuario()
 
             MsgBox("Bienvenido")
+            Permisos.Show()
+            Me.Hide()
 
         Catch ex As Exception
 
