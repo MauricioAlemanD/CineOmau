@@ -73,6 +73,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Boletos.Designer.vb">
+      <DependentUpon>Boletos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Boletos.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -103,6 +109,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Boletos.resx">
+      <DependentUpon>Boletos.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
@@ -127,6 +136,15 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2023-11-21 at 20.04.18_3ccbd441.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIG.WfpYNuW6FZ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\[removal.ai]_5a28fc1c-d3b5-450e-a01a-1c428e0854c1-oig-wfpynuw6fz.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
