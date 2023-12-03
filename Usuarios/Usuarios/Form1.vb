@@ -48,4 +48,8 @@ Public Class Form1
 
 
     End Sub
+
+    Private Sub cmbBasesDeDatos_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cmbBasesDeDatos.SelectedIndexChanged
+
+    End Sub
 End Class
